@@ -64,5 +64,5 @@ def insertRatingData():
     except:
         print('something else failed ')
 
-
+insertMovieData()
 insertRatingData()
