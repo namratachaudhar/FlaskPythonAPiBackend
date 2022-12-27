@@ -2,7 +2,6 @@ import pandas as pd
 import pyodbc
 
 # code to convert csv data into sql data using pandas and pyodbc 
-
 # inserting movie data into database
 def insertMovieData():
     data = pd.read_csv(

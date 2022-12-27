@@ -1,6 +1,5 @@
 import pyodbc
 
-
 class DataConnection:
     def __init__(self):
         self.conn = pyodbc.connect(

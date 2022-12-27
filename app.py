@@ -1,6 +1,7 @@
 from flask import Flask, request
 from DatabaseConnectionApi import DataConnection
 
+
 app = Flask(__name__)
 newData = DataConnection()
 
