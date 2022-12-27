@@ -4,6 +4,7 @@ Installation:
 Create virtual environment and activate the environment
 Installation of virtual environment
 
+
 Command to run :
 1) To create virtual environment
 virtualenv projectName
